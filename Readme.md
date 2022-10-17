@@ -1,0 +1,1 @@
+![preview](./images/desafio-stage03.PNG);
